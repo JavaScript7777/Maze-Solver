@@ -3,7 +3,6 @@ all points are set for my computer but can be altered to fit others
 Solver.java:
 
     - will prompt the user to enter the corresponding number for the maze they want
-    
     - once selected the computer will launch the file and read the profile picture according to chrome
     
     - then the maze solver will solve 18 mazes onless code is changed to do otherwise by the NUM_OF_REPITIONS constant int

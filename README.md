@@ -1,10 +1,15 @@
 all points are set for my computer but can be altered to fit others
 
 Solver.java:
+
     - will prompt the user to enter the corresponding number for the maze they want
+    
     - once selected the computer will launch the file and read the profile picture according to chrome
+    
     - then the maze solver will solve 18 mazes onless code is changed to do otherwise by the NUM_OF_REPITIONS constant int
+    
     - all data is saved to the corresponding csv file and a master csv file in logger files
+    
     - put your mouse in the top left corner of your screen to end program early
     - got rid of all naked numbers
     - the normal follow reads for the given color of wall

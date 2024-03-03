@@ -12,10 +12,12 @@ Solver.java:
     - the multi-color folow reads given wall colors with offset or empty space
     - the invisible follow presses keys to determine if there is a wall
     - all classes follow the right wall
+    
 ColorFinder.java in DataHelpers:
 
     - will start giving the color of the pixel the mouse is on
     - will print once every .2 seconds
+    
 PointFinder.java in DataHelpers:
 
     - will start giving the location of the mouse pointer
